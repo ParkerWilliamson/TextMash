@@ -5,3 +5,4 @@ This was the second Capstone project for my Springboard Datascience Career Track
 Datasets:
 Used a MBTI dataset from Kaggle, posts from Reddits /r/mbti and a generic text dataset.
 
+I first collected posts from reddit from and combined with the kaggle data. Then the posts were cleaned and finally used to classify texts.
